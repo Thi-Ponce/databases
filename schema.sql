@@ -7,3 +7,6 @@ CREATE TABLE animals (
     weight_kg DECIMAL,
     PRIMARY KEY(id)
 );
+
+ALTER TABLE IF EXISTS animals
+    ADD COLUMN species character varying;
