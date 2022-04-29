@@ -21,7 +21,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@Thi_ponce](https://twitter.com/Thi_ponce)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/thiago-ponce)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
